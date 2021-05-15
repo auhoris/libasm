@@ -1,5 +1,5 @@
 # libasm
-School 42 project. Meant to learn assembly language
+School 21 project. Meant to learn assembly language
 
 # Usage
 1. "git clone https://github.com/auhoris/libasm.git"
